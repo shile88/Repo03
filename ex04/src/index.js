@@ -1,10 +1,7 @@
 function main () {
   
-    var x;
-    var y;
-     x = 10;
-     y = x;
-
+    var x = 10;
+    var y = x;
 
     return [x, y];
 
